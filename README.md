@@ -12,3 +12,4 @@ Github:     https://github.com/crios2020/2024CFP35TecnicasTardeAgosto
 CodeShare:  https://codeshare.io/crios2020
 Grupo de WSP:   https://chat.whatsapp.com/LVedYzFpLGrHJ8UZ4TigSv
 
+Inscripciónes: https://cfpagencia.bue.edu.ar/scriptcase/app/GOETAL/app_Login/
